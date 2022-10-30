@@ -1,0 +1,65 @@
+<resources>
+    <!-- 전역 리소스 -->
+    <string name="app_name">쇼핑</string>
+
+    <!-- 로그인 프래그먼트 리소스 -->
+    <string name="login_view">아이디로 로그인</string>
+    <string name="login_id">아이디</string>
+    <string name="login_pw">비밀번호</string>
+    <string name="login_btn">로그인</string>
+    <string name="login_register_btn">회원가입</string>
+    <string name="login_skip">로그인하지 않고 둘러볼래요</string>
+    <string name="login_wrong_id_or_pw">아이디 혹은 비밀번호가 잘못되었습니다</string>
+
+    <!-- 회원가입 프래그먼트 리소스 -->
+    <string name="register_view">회원가입</string>
+    <string name="register_tos_info">아래 약관을 꼼꼼히 읽으시고 동의 여부를 선택해주시기 바랍니다.</string>
+    <string name="register_agree">동의</string>
+    <string name="register_decline">동의하지 않음</string>
+    <string name="register_tos_1">이용약관</string>
+    <string name="register_tos_2">개인정보 수집 및 이용 동의</string>
+    <string name="register_check_agree">동의합니다</string>
+    <string name="register_id">아이디</string>
+    <string name="register_pw">비밀번호 (8자이상, 특수문자 포함)</string>
+    <string name="register_pw_recheck">비밀번호 확인</string>
+    <string name="register_name">이름</string>
+    <string name="register_phone">전화번호</string>
+    <string name="register_address">주소</string>
+    <string name="register_btn">회원가입</string>
+    <string name="register_toast_ok">회원가입에 성공했습니다</string>
+    <string name="register_toast_tos">약관에 동의해야 가입할 수 있습니다</string>
+    <string name="register_toast_password_diff">입력된 비밀번호가 서로 다릅니다</string>
+    <string name="register_toast_id_collision">이미 사용중인 ID입니다</string>
+    <string name="register_toast_password_rule">비밀번호는 8자 이상이며 특수문자가 반드시 하나 이상 포함되어야 합니다</string>
+    <string name="register_toast_name_empty">이름을 입력해주세요</string>
+    <string name="register_toast_invalid_phone">올바른 국내 전화번호를 입력해주세요</string>
+    <string name="register_toast_unknown">알 수 없는 오류가 발생했습니다</string>
+
+    <!-- 메인 액티비티 리소스 -->
+    <string name="main_hello">어서오세요, %s님!</string>
+    <string name="main_back_again_quit">한번 더 누르면 앱이 종료됩니다</string>
+    <string name="main_alert_ask_register">회원가입 하시겠습니까?</string>
+
+    <!-- 내비바 리소스 -->
+    <string name="navbar_shopping">쇼핑</string>
+    <string name="navbar_basket">장바구니</string>
+    <string name="navbar_add">상품 추가</string>
+    <string name="navbar_user">계정 정보</string>
+
+    <!-- 계정정보 프래그먼트 리소스 -->
+    <string name="user_id_header">아이디</string>
+    <string name="user_name_header">이름</string>
+    <string name="user_phone_header">휴대폰 번호</string>
+    <string name="user_address_header">주소</string>
+    <string name="user_logout">로그아웃</string>
+    <string name="user_logout_success">안전하게 로그아웃 되었습니다</string>
+
+    <!-- 상품 추가 프래그먼트 리소스 -->
+    <string name="addproduct_image_import_fail">이미지를 가져오는데 실패했습니다</string>
+    <string name="addproduct_choose_image">사진 선택</string>
+    <string name="addproduct_title">상품명</string>
+    <string name="addproduct_price">가격</string>
+    <string name="addproduct_submit">추가하기</string>
+    <string name="addproduct_toast_wrong_price">올바른 가격을 입력해주세요</string>
+    <string name="addproduct_toast_empty_title">상품명을 입력해주세요</string>
+</resources>
