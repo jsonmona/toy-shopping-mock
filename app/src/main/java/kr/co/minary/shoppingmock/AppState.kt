@@ -189,6 +189,7 @@ class AppState private constructor(context: Context) {
         if (values.size() == 0)
             return
 
+
         dbHelper.writableDatabase.use { db ->
             db.update("user", values, "user_id=?", arrayOf(currUserId.toString()))
         }
