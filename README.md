@@ -1,7 +1,7 @@
 ## 안드로이드 쇼핑앱 목업
 
 ### Translation
-English ((README.en.md)[README.en.md])
+English ([README.en.md](README.en.md))  
 한국어 (이 파일)
 
 ### 개요
