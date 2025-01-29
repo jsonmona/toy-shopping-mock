@@ -1,7 +1,7 @@
 ## Android Shopping App Mockup
 
 ### Translation
-English (this file)
+English (this file)  
 한국어 ([README.md](README.md))
 
 ### Overview
